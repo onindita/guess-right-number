@@ -1,0 +1,7 @@
+Rules of the game
+
+1. The player has to guess a number between a specific range.
+
+2. When the player guesses a wrong number, the other person gives hints whether the guessed number is smaller or greater than the correct number.
+
+3. To make it a bit challenging, the player will get limited attempts to guess the number.
